@@ -1,0 +1,18 @@
+
+2015.07.06 Version 1.1
+
+Mobile Menu Fixed
+
+File changes
+	- css/theme.css, 
+	- css/responsive.css
+
+------------------------------------
+
+2015.07.06 Version 1.2
+
+Update header. Fixed header when scrolling.
+
+File changes
+	- css/theme.css, 
+	- js/func.js
